@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsConsumer</string>
+    <string name="searchMenuTitle">Search</string>
+    <string name="article_image_desc">Article Image</string>
+    <string name="open_in_browser">Redirect to Browser</string>
+    <string name="share_description">Share this article</string>
+    <string name="download_desc">Download Article Image</string>
+</resources>
